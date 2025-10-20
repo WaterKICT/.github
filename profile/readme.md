@@ -14,6 +14,5 @@
    - RF2D (River Flow 2D) : 2차원 하천 흐름 해석
    - UF (Urban Flood model) : 도심 침수 해석
    - FRM (Flood Risk assessment Model) : 정량적 홍수피해평가
-
-* [**2022년 KDI 예비타당성조사 수행을 위한 세부지침(수자원부분)**](https://github.com/floodmodel/K-FRM/blob/main/Reference/%5B%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%20%EC%98%88%EB%B9%84%ED%83%80%EB%8B%B9%EC%84%B1%EC%A1%B0%EC%82%AC%20%EC%88%98%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%84%B8%EB%B6%80%EC%A7%80%EC%B9%A8%20%EC%88%98%EC%9E%90%EC%9B%90%EB%B6%80%EB%AC%B8%20%EA%B0%9C%EC%A0%95%20%EC%97%B0%EA%B5%AC_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf) : 한국개발연구원(KDI) 예타지침에 K-FRM 이 반영되었습니다.
+![](https://github.com/WaterKICT/images/blob/main/applicationDiagram.JPG)
 
