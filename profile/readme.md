@@ -13,6 +13,7 @@
    - RF (River Flow) : 1 차원 하천 흐름 해석
    - RF2D (River Flow 2D) : 2차원 하천 흐름 해석
    - UF (Urban Flood model) : 도심 침수 해석
+   - G2D (Grid based 2-Dimensional land surface flood model) : 지표면 침수 해석
    - FRM (Flood Risk assessment Model) : 정량적 홍수피해평가 <br/>  
 <br/>![](https://github.com/WaterKICT/images/blob/main/applicationDiagram.JPG)
 
