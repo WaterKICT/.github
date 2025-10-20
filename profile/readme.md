@@ -4,7 +4,7 @@
 * 각 모형의 소스코드, 실행파일, 매뉴얼, 샘플데이터 등을 제공합니다.<br/> 
 * 각 모형의 GUI는 QGIS3.10 이상에서 실행되는 plug-in입니다. QGIS plug-in 설치/관리 메뉴를 이용하거나, plug-in 소스코드를 사용자 PC에 복사해서 실행합니다.<br/>  
 * 각 모형의 상세 설명은 각 repository에 있는 매뉴얼이나 Wiki를 참고해 주세요.<br/>
-* 각 모형의 제원, 모의환경, 실행화면 예시 등은 **여기**(https://github.com/WaterKICT/references/blob/main/WaterKICTModelChainSPEC.pdf).를 클릭하세요.<br/>
+* 각 모형의 제원, 모의환경, 실행화면 예시 등은 **여기**.(https://github.com/WaterKICT/references/blob/main/WaterKICTModelChainSPEC.pdf).를 클릭하세요.<br/>
 * 각 모형의 개략적 설명은 다음과 같습니다.<br/>
    - RAIN-AI (AI based RAIN prediction model) : 강우예측
    - FLOOD-AI (AI based FLOOD forecasting model) : 수위예측
