@@ -1,4 +1,4 @@
-## WaterKICT organization
+## WaterKICT  
 * [**한국건설기술연구원**](https://www.kict.re.kr/) 수자원하천연구본부에서 운영중인 GitHub organization 입니다.<br/>  
 * "강우-유출-하천흐름-침수-홍수피해평가"의 각 단계에서 홍수와 물부족을 해석하기 위한 **WaterKICT model chain**의 모형으로 구성되어 있습니다.<br/>  
 * 각 모형의 소스코드, 실행파일, 매뉴얼, 샘플데이터 등을 제공합니다.<br/> 
